@@ -19,21 +19,21 @@ Here are some ideas to get you started:
 
 快要大学毕业的我
 
-![image-20220327162249372](C:\Users\小可爱\Desktop\gtb\gtb-2022-learning-git\JiangWendyyy\图\image-20220327162249372.png)
+![image-20220327162249372](C:\Users\小可爱\Desktop\gtb\gtb-2022-learning-git\JiangWendyyy\1.png)
 
 这是我的学校周边，大一时拍的
 
-![image-20220327162818295](C:\Users\小可爱\Desktop\gtb\gtb-2022-learning-git\JiangWendyyy\图\image-20220327162818295.png)
+![image-20220327162818295](C:\Users\小可爱\Desktop\gtb\gtb-2022-learning-git\JiangWendyyy\2.png)
 
 现在已经封校了。。哪都去不了┭┮﹏┭┮
 
 对啦 我家在珠海，它很漂亮，推荐大家来玩
 
-![image-20220327162935648](C:\Users\小可爱\Desktop\gtb\gtb-2022-learning-git\JiangWendyyy\图\image-20220327162935648.png)
+![image-20220327162935648](C:\Users\小可爱\Desktop\gtb\gtb-2022-learning-git\JiangWendyyy\3.png)
 
 最后一张放我和我可爱的小朋友，这是我们全家一起去吉林时拍的
 
-![image-20220327163124051](C:\Users\小可爱\Desktop\gtb\gtb-2022-learning-git\JiangWendyyy\图\image-20220327163124051.png)
+![image-20220327163124051](C:\Users\小可爱\Desktop\gtb\gtb-2022-learning-git\JiangWendyyy\4.png)
 
 希望疫情尽快结束，好想出去玩呀
 
