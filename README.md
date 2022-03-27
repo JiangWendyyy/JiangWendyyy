@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 最后一张放我和我可爱的小朋友，这是我们全家一起去吉林时拍的
 
-![image-20220327163124051](assets\my bro.jpg)
+<img src="assets/my bro.jpg">
 
 希望疫情尽快结束，好想出去玩呀
 
